@@ -2,7 +2,7 @@
 
 This topic summarizes what you can expect from the moderation team, and what the moderation team expects from you.
 
-These rules are in addition to the existing [community guidelines](https://forums.gta5-mods.com/topic/8/gta5-mods-com-community-guidelines), rules on the upload and report prompts, as well as the [site F.A.Q.](https://forums.gta5-mods.com/topic/4943/readme-frequently-asked-questions-site-related)
+These rules are in addition to the existing rules on the upload and report prompts.
 
 ## Mod uploads for FiveM and other platforms
 
@@ -20,7 +20,7 @@ A mod description must be complete and understandable by everybody. It needs to 
 * A **summary** of what the mod is, does, and/or changes.
 * **Features** and **bugs** a user can expect **must be mentioned**.
 * **Installation instructions** for any kind of mod (except developer resources that can't be installed) **must be provided** (either inside the archive too, but **must** be part of the description field when uploading your mod -- so people can decide, early on, whether they're willing or able to comply with the installation needs for your mod).
-* **Dependencies** to other mods and tools **MUST be mentioned**. Dependencies **MUST** be freely and publicly available: No paywalls or login/account required to download.
+* **Dependencies** to other mods and tools **MUST be mentioned**. Dependencies **MUST** be freely and publicly available: No paywalls or accounts are required to download.
 * When using third-party resources, **the original authors must be credited**.
 * When using third-party resources, **the original resources must be linked**.
 
