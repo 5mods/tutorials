@@ -59,7 +59,7 @@ To ensure correct usage of the tags system, please make sure to comply with the 
 ***This category includes the "Add-On" tag guidelines mentioned before.*** 
 
 - **Maps**
-"[Map Model](https://www.gta5-mods.com/maps/tags/map-model)": Reserved for real map models only (e.g. [Nurburgring Nordschleife](https://www.gta5-mods.com/maps/nurburgring-nordschleife-circuit-hq)). Menyoo, Map Editor and YMAP among other map mods may not use this tag.
+"[Map Model](https://www.gta5-mods.com/maps/tags/map-model)": Reserved for real map models only (e.g. [Nurburgring Nordschleife](https://www.gta5-mods.com/maps/nurburgring-nordschleife-circuit-hq)). Menyoo, Map Editor, and YMAP among other map mods may not use this tag.
 "[Interior](https://www.gta5-mods.com/maps/tags/interior)": Reserved for real MLO mods (e.g. [GTA IV Burgershot Interior](https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem)). As with the previous tag, Menyoo/Map Editor/YMAP mods are not MLO's and may not use this tag.
 
 - **Peds**
@@ -81,7 +81,7 @@ Your upload's main image must be **an in-game screenshot (mandatory) or otherwis
 
 Screenshots of objects like vehicles, paint jobs, weapons, and peds must be well-lit.
 
-## Credits, Permissions and copyright
+## Credits, Permissions, and copyright
 
 Using third-party content is allowed if the **original author is credited and their terms or license on their works are complied with**. When reaching an agreement, please make this clear in your description as any uncertainty might result in a rejection of your submission.
 
@@ -141,17 +141,17 @@ However, we do expect you to follow some quality guidelines.
 
 * **Overall Quality:** Mods need to show 'minimal effort' on the part of the creator; and consequently not be something people can very easily do themselves, like a spooner file with just a few teleport markers, placing a helipad, or just putting a gate in front of a police station, etc.
 * **Presentation:** Your upload needs to have a representative image/screenshot and a good description.
-* **Tutorials:** Content generated from a tutorial or tool is not allowed, unless you have modified them substantially.
+* **Tutorials:** Content generated from a tutorial or tool is not allowed unless you have modified them substantially.
 * **Stability:** Bugs are expected. Try to thoroughly test your mod before releasing it.
 
 **Emergency content from various countries**
 
 * Any new emergency content mod must be complete by itself, and not require an external download.
-* The emergency content uploads must conform to base game standards, and still follow the rest requirements.
+* The emergency content uploads must conform to base game standards and still follow the rest of the requirements.
 
-To avoid oversaturation, mods featuring emergency content already hosted on our website (from the same country or region, and/or of the same type), must be of similar or higher quality as/than the ones available on our site at the time of upload. We reserve the right to assess the quality according to the above-mentioned standards and may remove emergency content we feel do not satisfy these standards at our sole discretion.
+To avoid oversaturation, mods featuring emergency content already hosted on our website (from the same country or region, and/or of the same type), must be of similar or higher quality as/than the ones available on our site at the time of upload. We reserve the right to assess the quality according to the above-mentioned standards and may remove emergency content we feel does not satisfy these standards at our sole discretion.
 
-**Note**: We're no longer accepting **paintjob** mod uploads that are not lore-friendly and meant to be used on lore-friendly/vanilla vehicle models. This applies to emergency content **only**.
+**Note**: We're no longer accepting **paint job** mod uploads that are not lore-friendly and are meant to be used on lore-friendly/vanilla vehicle models. This applies to emergency content **only**.
 
 ## User interaction and behavior
 
@@ -176,13 +176,9 @@ Moderators need as much information as possible to judge fairly and quickly. Unl
 
 ## Moderation
 
-These rules may be changed as the moderation team sees fit, for added clarity about encountered situations or for changes in actual moderation decisions.
+These rules may be changed as the moderation team sees fit, for added clarity about encountered situations, or changes in actual moderation decisions.
 
-The moderation team has the right to remove, reject and edit uploads, comments, reports and forum posts at any time. For a rejected mod upload, if you do not agree with a decision, discuss this in the comment section of your upload.
-
-For comments, reports and forum posts, if you do not agree with a decision, create a thread in [Site-related Questions & Feedback](https://forums.gta5-mods.com/category/9/site-related-questions-feedback) for clarification and/or discussion.
-
-If you have doubts about these rules or need clarification, please create a thread in [Site-related Questions & Feedback](https://forums.gta5-mods.com/category/9/site-related-questions-feedback).
+The moderation team has the right to remove, reject, and edit uploads, comments, reports, and forum posts at any time. For a rejected mod upload, if you do not agree with a decision, discuss this in the comment section of your upload.
 
 [//]: # (2019-08-14: ikt: Change the 7 day grace period and no contact = implicit permission phrase, to always requiring permission.)
 [//]: # (2019-08-16: ikt: Remove "positive" feedback expectation. Just constructive is fine.)
@@ -196,9 +192,9 @@ If you have doubts about these rules or need clarification, please create a thre
 [//]: # (2021-01-24: ikt: Expanded EV rule to more general Emergency content.)
 [//]: # (2021-03-12: Reyser: Added a "Tags" section to include specific guidelines about exclusive and/or confusing tags usage.)
 [//]: # (2021-03-23: ikt: Added section about self-promotion.)
-[//]: # (2021-04-13: Reyser: Added a little clarification about the tags system usage in the top of the "Tags" section to prevent users abusing of the tags system. Also slightly modified the "This overview is not exhaustive..." text before the "Screenshots" section.)
+[//]: # (2021-04-13: Reyser: Added a little clarification about the tags system usage at the top of the "Tags" section to prevent users from abusing the tags system. Also slightly modified the "This overview is not exhaustive..." text before the "Screenshots" section.)
 [//]: # (2021-04-25: ikt: Added permission revoking explanation.)
-[//]: # (2021-08-21: Reyser: Added a paint job mods clarification "Note" in the bottom of the emergency uploads section.)
+[//]: # (2021-08-21: Reyser: Added a paint job mods clarification "Note" at the bottom of the emergency uploads section.)
 [//]: # (2021-09-13: ikt: Added an exception to allow updated uploaded scripts **if** they provide full transparency.)
 [//]: # (2021-09-23: Reyser: Added a "VERY IMPORTANT" note under the "Mod uploads for FiveM and other platforms" section to add the recent moderation team decision which happened in the #staff-lounge channel on Discord - https://imgur.com/FjJEFQk .)
 [//]: # (2021-10-17: ikt: Change title from "Updated author rules and regulations" to "Upload rules and regulations", since it has been over two years already.)
