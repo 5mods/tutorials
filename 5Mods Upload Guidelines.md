@@ -204,3 +204,7 @@ The moderation team has the right to remove, reject, and edit uploads, comments,
 [//]: # (2021-11-04: ikt: Clarified "Updated and/or fixed scripts".)
 [//]: # (2022-08-31: ikt: Clarified publicly accessible mod dependencies.)
 [//]: # (2023-10-24: ikt: Should -> Must.)
+[//]: # (2024-2-3: ikt: Link added to the first title.)
+[//]: # (2024-7-16: Michael21107: Minor grammar improvements and deleted sentences and parts of sentences linking to now non-existing sites.)
+[//]: # (2024-7-26: Michael21107: Removed the links to the abolished forum and edited the text accordingly.)
+[//]: # (2024-9-14: Michael21107: Added ''GitHub era'' changes to the changelog. Used the date of the PR merge for my first 3 commits.)
