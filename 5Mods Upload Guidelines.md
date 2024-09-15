@@ -86,7 +86,7 @@ Screenshots of objects like vehicles, paint jobs, weapons, and peds must be well
 Using third-party content is allowed if the **original author is credited and their terms or license on their works are complied with**. When reaching an agreement, please make this clear in your description as any uncertainty might result in a rejection of your submission.
 
 * **Re-releases**: You **may not re-release** an existing release from GTA5-Mods (or parts thereof), unless the original author has given you *express* permission. If you have made a change to their mod, prefer contacting them to add your changes to their existing upload. **This includes mod packs.**
-* **Copyrighted media**: [You **may not** upload copyrighted media, unless you have permission from the right-holders.](https://forums.gta5-mods.com/topic/20270/radio-station-mods-copyrighted-music-and-moderation) (*E.g. an album of a popular artist uploaded as "loading music"*)
+* **Copyrighted media**: You **may not** upload copyrighted media, unless you have permission from the right-holders. (*E.g. an album of a popular artist uploaded as "loading music"*)
 * **Dependencies**: You **may not** include third-party libraries in your upload *when they are regularly updated outside of your mod*, as this could affect the compatibility of other mods. (*E.g. ScriptHookV and NativeUI*)
 * **Revoking permission**: If you have permitted a mod author to use some of your work, and change your mind later, we do not retroactively reject existing uploads that contain the content you revoked permission for.
 
@@ -155,7 +155,7 @@ To avoid oversaturation, mods featuring emergency content already hosted on our 
 
 ## User interaction and behavior
 
-It's important that you interact with users in your comments, however, make sure to follow the [community guidelines](https://forums.gta5-mods.com/topic/8/gta5-mods-com-community-guidelines).
+It's important that you interact with users in your comments, however, make sure to follow the community guidelines found under the comments section.
 
 We encourage **constructive** criticism. Criticism and ratings without constructive feedback are not tolerated and will be removed.
 
@@ -204,3 +204,7 @@ The moderation team has the right to remove, reject, and edit uploads, comments,
 [//]: # (2021-11-04: ikt: Clarified "Updated and/or fixed scripts".)
 [//]: # (2022-08-31: ikt: Clarified publicly accessible mod dependencies.)
 [//]: # (2023-10-24: ikt: Should -> Must.)
+[//]: # (2024-2-3: ikt: Link added to the first title.)
+[//]: # (2024-7-16: Michael21107: Minor grammar improvements and deleted sentences and parts of sentences linking to now non-existing sites.)
+[//]: # (2024-7-26: Michael21107: Removed the links to the abolished forum and edited the text accordingly.)
+[//]: # (2024-9-14: Michael21107: Added ''GitHub era'' changes to the changelog. Used the date of the PR merge for my first 3 commits.)
