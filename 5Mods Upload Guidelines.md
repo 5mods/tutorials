@@ -83,7 +83,9 @@ Your upload's main image must be **an in-game screenshot (mandatory) or otherwis
 
 Screenshots of objects like vehicles, paint jobs, weapons, and peds must be well-lit.
 
-  **```Update 18th May 2026```**: We are no longer allowing AI generated content as part of uploads - this takes ALL forms, including - but not limited to - descriptions, images (especially mod thumbnails) and AI generated scripts. Any uploads the moderation team deem to break this rule will be rejected until any AI generated content is removed. Any uploads prior to this date can remain uploaded on the site. This only applies to _new_ uploads. 
+  **```Update 18th May 2026```**: We are no longer allowing AI generated content as part of uploads - this takes ALL forms, including - but not limited to - descriptions, images (especially mod thumbnails) and **fully** AI generated scripts. Any uploads the moderation team deem to break this rule will be rejected until any AI generated content is removed. Any uploads prior to this date can remain uploaded on the site. This only applies to _new_ uploads. 
+  
+   **```Update 12th November 2026```**: We recognise that AI can be a tool that when used correctly, can provide some great and creative mods. We have decided to somewhat relax our stance on AI since the previous update above, where we now require authors who use AI to assist (not fully make) their mods to state clearly at the start of the upload how much of the mod is AI assisted. This relaxation of the rules does **not** include descriptions, thumbnails/images, scripts or other types of mods fully generated using AI, which we still do not allow. Any uploads failing to be transparent about their AI usage _will_ be rejected until rectified.
 
 ## Credits, Permissions, and copyright
 
@@ -149,7 +151,9 @@ However, we do expect you to follow some quality guidelines.
 * **Tutorials:** Content generated from a tutorial or tool is not allowed unless you have modified them substantially.
 * **Stability:** Bugs are expected. Try to thoroughly test your mod before releasing it.
 
-  **```Update 18th May 2026```**: We are no longer allowing AI generated content as part of uploads - this takes ALL forms, including - but not limited to - descriptions, images (especially mod thumbnails) and AI generated scripts. Any uploads the moderation team deem to break this rule will be rejected until any AI generated content is removed. Any uploads prior to this date can remain uploaded on the site. This only applies to _new_ uploads. 
+  **```Update 18th May 2026```**: We are no longer allowing AI generated content as part of uploads - this takes ALL forms, including - but not limited to - descriptions, images (especially mod thumbnails) and AI generated scripts. Any uploads the moderation team deem to break this rule will be rejected until any AI generated content is removed. Any uploads prior to this date can remain uploaded on the site. This only applies to _new_ uploads.
+
+ **```Update 12th November 2026```**: We recognise that AI can be a tool that when used correctly, can provide some great and creative mods. We have decided to somewhat relax our stance on AI since the previous update above, where we now require authors who use AI to assist (not fully make) their mods to state clearly at the start of the upload how much of the mod is AI assisted. This relaxation of the rules does **not** include descriptions, thumbnails/images, scripts or other types of mods fully generated using AI, which we still do not allow. Any uploads failing to be transparent about their AI usage _will_ be rejected until rectified.
 
 **Emergency content from various countries**
 
@@ -159,6 +163,7 @@ However, we do expect you to follow some quality guidelines.
 To avoid oversaturation, mods featuring emergency content already hosted on our website (from the same country or region, and/or of the same type), must be of similar or higher quality as/than the ones available on our site at the time of upload. We reserve the right to assess the quality according to the above-mentioned standards and may remove emergency content we feel does not satisfy these standards at our sole discretion.
 
 **Note**: We're no longer accepting **paint job** mod uploads that are not lore-friendly and are meant to be used on lore-friendly/vanilla vehicle models. This applies to emergency content **only**.
+
 
 ## User interaction and behavior
 
